@@ -1,0 +1,244 @@
+[
+  {
+    "name": "Grilled Chicken",
+    "category": "Main",
+    "veg": false,
+    "calories": 350,
+    "protein": 40,
+    "fat": 10,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "Paneer Wrap",
+    "category": "Main",
+    "veg": true,
+    "calories": 380,
+    "protein": 18,
+    "fat": 15,
+    "allergens": [
+      "Dairy"
+    ],
+    "health_rating": 7
+  },
+  {
+    "name": "Fruit Bowl",
+    "category": "Snack",
+    "veg": true,
+    "calories": 150,
+    "protein": 2,
+    "fat": 0,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "Egg Salad",
+    "category": "Main",
+    "veg": false,
+    "calories": 280,
+    "protein": 22,
+    "fat": 14,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 8
+  },
+  {
+    "name": "Veg Biryani",
+    "category": "Main",
+    "veg": true,
+    "calories": 420,
+    "protein": 9,
+    "fat": 16,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 6
+  },
+  {
+    "name": "Chicken Biryani",
+    "category": "Main",
+    "veg": false,
+    "calories": 520,
+    "protein": 28,
+    "fat": 22,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 5
+  },
+  {
+    "name": "Peanut Noodles",
+    "category": "Main",
+    "veg": true,
+    "calories": 400,
+    "protein": 12,
+    "fat": 18,
+    "allergens": [
+      "Nuts"
+    ],
+    "health_rating": 6
+  },
+  {
+    "name": "Grilled Fish",
+    "category": "Main",
+    "veg": false,
+    "calories": 300,
+    "protein": 35,
+    "fat": 9,
+    "allergens": [
+      "Seafood"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "Sprouts Salad",
+    "category": "Salad",
+    "veg": true,
+    "calories": 180,
+    "protein": 14,
+    "fat": 3,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "Cheese Sandwich",
+    "category": "Snack",
+    "veg": true,
+    "calories": 320,
+    "protein": 13,
+    "fat": 16,
+    "allergens": [
+      "Dairy",
+      "Gluten"
+    ],
+    "health_rating": 5
+  },
+  {
+    "name": "Whole Wheat Roti + Dal",
+    "category": "Main",
+    "veg": true,
+    "calories": 310,
+    "protein": 15,
+    "fat": 6,
+    "allergens": [
+      "Gluten"
+    ],
+    "health_rating": 8
+  },
+  {
+    "name": "Tofu Stir Fry",
+    "category": "Main",
+    "veg": true,
+    "calories": 260,
+    "protein": 20,
+    "fat": 10,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "Shrimp Rice Bowl",
+    "category": "Main",
+    "veg": false,
+    "calories": 390,
+    "protein": 30,
+    "fat": 12,
+    "allergens": [
+      "Seafood"
+    ],
+    "health_rating": 7
+  },
+  {
+    "name": "Almond Yogurt Bowl",
+    "category": "Snack",
+    "veg": true,
+    "calories": 220,
+    "protein": 10,
+    "fat": 8,
+    "allergens": [
+      "Dairy",
+      "Nuts"
+    ],
+    "health_rating": 8
+  },
+  {
+    "name": "Vegetable Soup",
+    "category": "Snack",
+    "veg": true,
+    "calories": 120,
+    "protein": 4,
+    "fat": 2,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 8
+  },
+  {
+    "name": "Grilled Paneer Steak",
+    "category": "Main",
+    "veg": true,
+    "calories": 340,
+    "protein": 24,
+    "fat": 18,
+    "allergens": [
+      "Dairy"
+    ],
+    "health_rating": 7
+  },
+  {
+    "name": "Chicken Salad",
+    "category": "Salad",
+    "veg": false,
+    "calories": 270,
+    "protein": 30,
+    "fat": 8,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 9
+  },
+  {
+    "name": "French Fries",
+    "category": "Snack",
+    "veg": true,
+    "calories": 450,
+    "protein": 5,
+    "fat": 25,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 3
+  },
+  {
+    "name": "Boiled Eggs (2)",
+    "category": "Snack",
+    "veg": false,
+    "calories": 160,
+    "protein": 13,
+    "fat": 10,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 8
+  },
+  {
+    "name": "Gluten-Free Millet Bowl",
+    "category": "Main",
+    "veg": true,
+    "calories": 300,
+    "protein": 11,
+    "fat": 7,
+    "allergens": [
+      "None"
+    ],
+    "health_rating": 8
+  }
+]
