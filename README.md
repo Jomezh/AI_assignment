@@ -10,7 +10,7 @@
 
 ## Important Links
 
-> Replace the placeholder URLs below before publishing the repository.
+
 
 | Resource | Link |
 |---|---|
